@@ -2,7 +2,7 @@
 
 // Mohamed Ahmed Abdullah 1190388
 // Ismail Tawfik 1190264
-// Abdulrahman Elshahed
+// Abdelrhman Mohamed Elshahed 1190507
 
 #include <stdlib.h>
 #include <GL/glut.h>
